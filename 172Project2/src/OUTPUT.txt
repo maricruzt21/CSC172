@@ -1,0 +1,65 @@
+root: Line: 0 ( X: 0.0 Y: 0.12 , X: 0.23 Y: 1.0)
+	right: Line: 1 ( X: 0.0 Y: 0.52 , X: 1.0 Y: 0.41)
+		right: Line: 2 ( X: 0.3 Y: 1.0 , X: 1.0 Y: 0.2)
+			right: Line: 3 ( X: 0.0 Y: 0.4 , X: 0.1 Y: 0.0)
+				right: null
+				left: Line: 4 ( X: 0.1 Y: 1.0 , X: 1.0 Y: 0.35)
+					right: null
+					left: null
+			left: Line: 4 ( X: 0.1 Y: 1.0 , X: 1.0 Y: 0.35)
+				right: null
+				left: null
+		left: Line: 2 ( X: 0.3 Y: 1.0 , X: 1.0 Y: 0.2)
+			right: Line: 4 ( X: 0.1 Y: 1.0 , X: 1.0 Y: 0.35)
+				right: null
+				left: null
+			left: Line: 4 ( X: 0.1 Y: 1.0 , X: 1.0 Y: 0.35)
+				right: null
+				left: null
+	left: Line: 1 ( X: 0.0 Y: 0.52 , X: 1.0 Y: 0.41)
+		right: Line: 3 ( X: 0.0 Y: 0.4 , X: 0.1 Y: 0.0)
+			right: null
+			left: Line: 4 ( X: 0.1 Y: 1.0 , X: 1.0 Y: 0.35)
+				right: null
+				left: null
+		left: Line: 4 ( X: 0.1 Y: 1.0 , X: 1.0 Y: 0.35)
+			right: null
+			left: null
+0/1/2/4/
+0/1/2/4/
+0/1/2/3/4/
+0/1/2/3/4/
+
+Num of lines in file: 8
+Num of external nodes: 8
+root: Line: 0 ( X: 0.0 Y: 0.12 , X: 0.23 Y: 1.0)
+	right: Line: 1 ( X: 0.0 Y: 0.52 , X: 1.0 Y: 0.41)
+		right: Line: 2 ( X: 0.3 Y: 1.0 , X: 1.0 Y: 0.2)
+			right: Line: 3 ( X: 0.0 Y: 0.4 , X: 0.1 Y: 0.0)
+				right: null
+				left: Line: 4 ( X: 0.1 Y: 1.0 , X: 1.0 Y: 0.35)
+					right: null
+					left: null
+			left: Line: 4 ( X: 0.1 Y: 1.0 , X: 1.0 Y: 0.35)
+				right: null
+				left: null
+		left: Line: 2 ( X: 0.3 Y: 1.0 , X: 1.0 Y: 0.2)
+			right: Line: 4 ( X: 0.1 Y: 1.0 , X: 1.0 Y: 0.35)
+				right: null
+				left: null
+			left: Line: 4 ( X: 0.1 Y: 1.0 , X: 1.0 Y: 0.35)
+				right: null
+				left: null
+	left: Line: 1 ( X: 0.0 Y: 0.52 , X: 1.0 Y: 0.41)
+		right: Line: 3 ( X: 0.0 Y: 0.4 , X: 0.1 Y: 0.0)
+			right: null
+			left: Line: 4 ( X: 0.1 Y: 1.0 , X: 1.0 Y: 0.35)
+				right: null
+				left: null
+		left: Line: 4 ( X: 0.1 Y: 1.0 , X: 1.0 Y: 0.35)
+			right: null
+			left: null
+0/1/2/4/
+0/1/2/4/
+0/1/2/3/4/
+0/1/2/3/4/
