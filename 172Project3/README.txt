@@ -1,8 +1,5 @@
-/* Name: Maricruz Tolosa Amaya
- * Net ID: mtolosaa
- * ID#: 29988518
+/* Name: Maricruz
  * CSC 172 Project#3
- * Lab: MW 2:00-3:15
  * 
  */
 
@@ -17,6 +14,9 @@ Vertex.java
 Output.txt
 monroe.txt
 ur.txt
-nys.txt
+nys.txt (missing, file too big for GitHub)
 
 How to run this code is detailed in Output.txt, as stated in the lab write-up.
+
+
+***This file not complete, missing nys.txt ***
