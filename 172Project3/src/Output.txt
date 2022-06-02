@@ -1,0 +1,139 @@
+/* Name: Maricruz Tolosa Amaya
+ * Net ID: mtolosaa
+ * ID#: 29988518
+ * CSC 172 Project#3
+ * Lab: MW 2:00-3:15
+ * 
+ */
+
+To Run: 
+1. Open terminal/command
+2.Change directory 
+3. Compile with javac *.java (to compile  java source files)
+4. Run Test.java by: java Test map.txt -show -directions/ meridian map 
+ex: java Test ur.txt -show -meridianmap 
+
+Output: 
+GILBERT-LONG to i2
+i9 to i10
+i74 to GOERGEN
+i6 to i7
+i19 to i22
+i18 to i22
+TIERNAN-SHORT to i3
+i7 to i8
+i63 to HARKNESS
+i8 to i9
+i17 to i18
+i20 to i19
+i50 to i48
+i49 to i53
+i23 to i24
+i38 to i37
+i37 to i38
+i26 to i32
+i24 to i25
+i76 to UHS
+i34 to i35
+i73 to i71
+i23 to i25
+i16 to i41
+i26 to i27
+i35 to BURTON
+CROSBY to i27
+i1 to i2
+i52 to i47
+BURTON to i34
+i1 to i3
+i75 to CSB
+i17 to i20
+i26 to CROSBY
+i70 to i71
+i72 to WILMOT
+i82 to ANDERSON
+i8 to i13
+i30 to i29
+RETTNER to i39
+i77 to i76
+i11 to i3
+SIMON to i53
+i24 to i32
+i2 to i4
+i82 to SAGE
+i40 to i28
+i54 to i30
+i10 to i11
+i10 to i11
+i24 to i26
+i35 to i36
+i15 to HOEING
+i23 to i34
+i4 to i6
+i38 to LECHASE
+i64 to GAVETT
+i4 to i5
+i67 to WALLIS
+i65 to GAVETT
+i11 to TIERNAN-COMMON
+i14 to i18
+i33 to i30
+i14 to LOVEJOY
+i12 to i11
+i49 to i47
+GILBERT-COMMON to i4
+i33 to WILSON
+i50 to i52
+i58 to i61
+i29 to i28
+i15 to i19
+i44 to i45
+i53 to i52
+i47 to i48
+i55 to i42
+i10 to i12
+i10 to i12
+i29 to i54
+i45 to HOYT
+RUSH-RHEES to i43
+i57 to i58
+i65 to i66
+i38 to i51
+i75 to HYLAN
+i66 to HOPEMAN
+i25 to i31
+i60 to ITS
+i39 to TUNNEL-MOREY
+i82 to WILDER
+i13 to i15
+WILSON to RETTNER
+i64 to i65
+i59 to i58
+i13 to i14
+i21 to i40
+i42 to RUSH-RHEES
+i57 to MELIORA-NORTH
+i36 to i37
+i14 to i16
+HOPEMAN to i67
+ITS to i59
+i9 to i3
+i41 to i36
+i17 to i23
+i20 to i24
+i15 to i21
+i56 to i43
+i75 to HUTCH-UPPER
+i43 to B&L
+i2 to i7
+i61 to i62
+i74 to i75
+i32 to i31
+i67 to GLEASON-HALL
+i27 to i28
+i42 to MOREY
+i16 to i17
+i62 to MELIORA-SOUTH
+DEWEY to i49
+i48 to LATTIMORE
+i54 to GOERGEN-ATHLETIC
+LECHASE to i31
