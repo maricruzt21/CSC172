@@ -1,8 +1,5 @@
-/* Name: Maricruz Tolosa Amaya
- * Net ID: mtolosaa
- * ID#: 29988518
+/* Name: Maricruz
  * CSC 172 Project#1
- * Lab: MW 2:00-3:15
  * 
  */
 import java.util.StringTokenizer;
